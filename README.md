@@ -11,3 +11,5 @@ Proyek ini bertujuan untuk menganalisis data Kiva menggunakan Tableau dan mengid
 
 Dengan wawasan ini, kita dapat memahami lebih dalam bagaimana Kiva berkontribusi dalam mendukung pertumbuhan ekonomi di berbagai komunitas global.
 
+Berikut link tableau project ini: 
+https://public.tableau.com/views/m2_day23_Kiva_Adi/Home?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
